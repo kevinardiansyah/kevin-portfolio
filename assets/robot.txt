@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://kevinardiansyah.github.io/kevin-portfolio/sitemap.xml
